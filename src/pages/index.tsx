@@ -34,7 +34,7 @@ export default function Home(): JSX.Element {
 	return (
 		<Layout
 			title={`Home ${siteConfig.title}`}
-			description="Description will go into a meta tag in <head />"
+			description="Official dnrs documentation"
 		>
 			<HomepageHeader />
 			<main>
